@@ -1,10 +1,12 @@
 # emaartech-website
 Bu projede Html ve Bootstrap kullanarak bir site tasarladım. Bootstrap componentleri ve css yapısı kullanıldı.
 
+
 #Özellikler
 -Harika arayüz
 -Full responsive tasarım
 -Dinamik navbar
+
 
 #Ekran Görüntüsü
 
